@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/IPTV/channels-iptv.xml.gz">
+   <description>(epg by Igor@K-runigma)- IPTV </description>
+   <url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
+</source#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие", Сайт
 http://iptvin.ru/iptv/1000859--loganet 
 #EXTINF:-1 group-title="Общие", Канал в Telegram
@@ -1108,3 +1111,7 @@ https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://vsd246.okcdn.ru/hls/485900290780.m3u8/sig/4uNJlLboiEc/expires/1745382132756/srcIp/20.42.14.170/urls/45.136.20.60/clientType/0/srcAg/CHROME/mid/977507065564/video.m3u8
 tvg-id="patriot"
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/IPTV/channels-iptv.xml.gz">
+   <description>(epg by Igor@K-runigma)- IPTV </description>
+   <url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
+</source
