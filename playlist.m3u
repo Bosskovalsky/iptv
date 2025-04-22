@@ -1114,4 +1114,5 @@ tvg-id="patriot"
 <source type="gen_xmltv" channels="http://runigma.com.ua/EPG/IPTV/channels-iptv.xml.gz">
    <description>(epg by Igor@K-runigma)- IPTV </description>
    <url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
-</source
+</source#EXTINF:-1 group-title="Кино", Мужское кино
+#EXTINF:-1 group-title="Кино", Мужское кино
