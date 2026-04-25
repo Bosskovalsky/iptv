@@ -1110,3 +1110,12 @@ https://vsd246.okcdn.ru/hls/485900290780.m3u8/sig/4uNJlLboiEc/expires/1745382132
 #EXTM3U
 #EXTINF:-1, Channel Name
 tvg-id="lavstori-hd tvg-id="shokiruyushchee 
+#EXTM3U
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="family",STS
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="family",STS
+http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="family",STS
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="family",STS
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
